@@ -13,7 +13,7 @@
  ## 1. Overview
 This project provides a systematic implementation and evaluation of beamforming algorithms, specifically tailored for speech processing applications. Beamforming is a signal processing technique used to control the directionality of signal reception or transmission, and it is crucial in applications like speech enhancement, noise suppression, and direction-of-arrival (DOA) estimation.
 
-The project leverages MATLAB's powerful Phased Array System Toolbox and the Signal Processing Toolbox to develop and test multiple beamforming techniques. The project is divided into three main stages:
+The project leverages MATLAB's powerful Phased Array System Toolbox (https://www.mathworks.com/help/phased/beamforming.html) and the Signal Processing Toolbox to develop and test multiple beamforming techniques. The project is divided into three main stages:
 
 1. Signal Preparation
 2. Beamforming Implementation
@@ -55,11 +55,11 @@ This module assesses the performance of the applied beamforming algorithms using
 
 **Installation:**
 
-1. Clone this repository using `git clone https://github.com/your_username/Beamforming_MATLAB.git` (replace `your_username` with your actual GitHub username).
+1. Clone this repository using `git clone https://github.com/NIVASHRADHA/Beamforming_MATLAB.git`.
 2. Navigate to the project directory: `cd Beamforming_MATLAB`
 
 **Running the Scripts:**
 
-1. Execute the main.m file or run the individual files seperately
+1. Execute the main.m file or run the individual files separately.
 
 
